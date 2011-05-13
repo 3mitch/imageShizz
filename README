@@ -1,0 +1,6 @@
+Image processing demo(s) using Node imagemagick
+
+requires:
+npm install imagemagick
+npm install express
+npm install jade
